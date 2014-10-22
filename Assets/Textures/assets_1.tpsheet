@@ -1,0 +1,18 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# http://www.codeandweb.com/texturepacker/unity
+#
+# Sprite sheet: assets_1.png (2048 x 2048)
+# $TexturePacker:SmartUpdate:11c141dc79cbc259c6f0a180f61a7d50:70ae1168932013ac0f4c452d3c0352e0:ad83b345917c67cb7b195b4976b7a7e2$
+#
+
+cat;1732;1284;216;207;0.5;0.5
+chicken;1732;1684;288;189;0.5;0.5
+grapes;2;648;180;180;0.5;0.5
+man;1732;830;189;252;0.5;0.5
+pine;1732;1084;207;198;0.5;0.5
+platforms;2;1875;1917;171;0.5;0.5
+vulkhan;2;910;1728;963;0.5;0.5
+whale;1732;1493;261;189;0.5;0.5
